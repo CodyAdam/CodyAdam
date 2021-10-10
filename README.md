@@ -1,4 +1,5 @@
 
+
 # Repositories
 
 ### 💼 Projects
@@ -7,9 +8,23 @@
 - [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3)
 - [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2)
 - [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1)
-- [ADN match](https://github.com/CodyAdam/project__ADN-match)
 - [Chatbot](https://github.com/CodyAdam/project__chatbot)
 - [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)
+- [ADN match](https://github.com/CodyAdam/project__ADN-match)
+
+| Technologies           | Repository                                                                     | Skills                   |
+| ---------------------- | ------------------------------------------------------------------------------ | ------------------------ |
+| Typescript, ReactJS    | [smrtile](https://github.com/CodyAdam/project__smrtile) **Work in progress**   | Frontend, Typing         |
+| JS, Svelte, ElectronJS | [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3) |                          |
+| ReactJS, ElectronJS    | [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2) |                          |
+| JS                     | [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1) |                          |
+| Scala, ScalaSwing      | [Chatbot](https://github.com/CodyAdam/project__chatbot)                        | Unit Testing, Group Work |
+|                        | [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)  | Unit Testing, Group Work |
+|                        | [ADN match](https://github.com/CodyAdam/project__ADN-match)                    | Unit Testing, Group Work |
+
+### 🎮 Games
+
+- 
 
 ### 🧩 Puzzles
 
