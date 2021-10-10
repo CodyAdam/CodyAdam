@@ -4,41 +4,51 @@
 
 ### 💼 Projects
 
-- [smrtile](https://github.com/CodyAdam/project__smrtile) **Work in progress**
-- [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3)
-- [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2)
-- [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1)
-- [Chatbot](https://github.com/CodyAdam/project__chatbot)
-- [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)
-- [ADN match](https://github.com/CodyAdam/project__ADN-match)
 
-| Technologies           | Repository                                                                     | Skills                   |
-| ---------------------- | ------------------------------------------------------------------------------ | ------------------------ |
-| Typescript, ReactJS    | [smrtile](https://github.com/CodyAdam/project__smrtile) **Work in progress**   | Frontend, Typing         |
-| JS, Svelte, ElectronJS | [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3) |                          |
-| ReactJS, ElectronJS    | [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2) |                          |
-| JS                     | [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1) |                          |
-| Scala, ScalaSwing      | [Chatbot](https://github.com/CodyAdam/project__chatbot)                        | Unit Testing, Group Work |
-|                        | [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)  | Unit Testing, Group Work |
-|                        | [ADN match](https://github.com/CodyAdam/project__ADN-match)                    | Unit Testing, Group Work |
+| Repository                                                                     | Technologies                     | Skills                                  |
+| ------------------------------------------------------------------------------ | -------------------------------- | --------------------------------------- |
+| 🌟 [Chatbot](https://github.com/CodyAdam/project__chatbot)                      | Scala, ScalaSwing                | Unit Testing, Group Work, Web Scrapping |
+| [smrtile](https://github.com/CodyAdam/project__smrtile) **Work in progress**   | TS, Node, React, Redux           | Frontend, UI, UX, State Management      |
+| [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3) | JS, Node, Svelte, Electron, Sass | Frontend, UI, UX                        |
+| [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2) | React, Node, Electron            | Frontend, UI, UX                        |
+| [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1) | JS                               | Frontend                                |
+| [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)  | Scala                            | Unit Testing, Group Work, Web Scrapping |
+| [ADN match](https://github.com/CodyAdam/project__ADN-match)                    | Scala                            | Unit Testing, Group Work, Regexp        |
 
 ### 🎮 Games
 
-- 
+| Repository                                                           | Technologies     | Skills                                       |
+| -------------------------------------------------------------------- | ---------------- | -------------------------------------------- |
+| 🌟 [Tower Defence](https://github.com/CodyAdam/game__tower-defence)   | Java, StdDraw    | Group Work, Optimization, GameEngine, UI, UX |
+| [titac](https://github.com/CodyAdam/game__titac)                     | TS, React, Redux | State Management, Frontend                   |
+| [titac Server](https://github.com/CodyAdam/game__tita-server)        | TS, Node         | Networking, Backend                          |
+| [Unity 2d Prototype](https://github.com/CodyAdam/game__2d-prototype) | C#, Unity3D      | GameEngine, 2D Physics                       |
+
 
 ### 🧩 Puzzles
 
-- [AI Screeps](https://github.com/CodyAdam/puzzle__AI-screeps)
-- [Advent of Code 2020](https://github.com/CodyAdam/puzzle__advent-of-code-2020)
-- [Advent of Code 2019](https://github.com/CodyAdam/puzzle__advent-of-code-2019)
-- [AI Ghost Contest](https://github.com/CodyAdam/puzzle__AI-ghost-contest)
-- [AI Starship](https://github.com/CodyAdam/puzzly__AI-starship)
+| Repository                                                                     | Technologies | Skills           |
+| ------------------------------------------------------------------------------ | ------------ | ---------------- |
+| 🌟 [AI Ghost Contest](https://github.com/CodyAdam/puzzle__AI-ghost-contest)     | Python3      | AI, Optimization |
+| 🌟 [AI Screeps](https://github.com/CodyAdam/puzzle__AI-screeps)                 | TS, Node     | AI, Optimization |
+| [Advent of Code 2020](https://github.com/CodyAdam/puzzle__advent-of-code-2020) | Python3      | Problem Solving  |
+| [Advent of Code 2019](https://github.com/CodyAdam/puzzle__advent-of-code-2019) | Python3      | Problem Solving  |
+| [AI Starship](https://github.com/CodyAdam/puzzly__AI-starship)                 | Python3      | AI, Optimization |
 
 ### 🔧 Tools 
 
-- [Dofus image recognition](https://github.com/CodyAdam/tool__dofus-img-recogn)
-- [Custom Numworks Calculator](https://github.com/CodyAdam/tool__numworks-calc)
-  
+| Repository                                                                      | Technologies          | Skills          |
+| ------------------------------------------------------------------------------- | --------------------- | --------------- |
+| - [Dofus image recognition](https://github.com/CodyAdam/tool__dofus-img-recogn) | AHK, Python, Teseract | CLI, Automation |
+| - [Custom Numworks Calculator](https://github.com/CodyAdam/tool__numworks-calc) | Node, Electron        |                 |
+
+### Others
+| Repository                                                          | Technologies    | Skills   |
+| ------------------------------------------------------------------- | --------------- | -------- |
+| [React Components](https://github.com/CodyAdam/other__reacts-compo) | JS, Node, React | Frontend |
+
 ### 🧾 Templates
 
-- [Sveletron](https://github.com/CodyAdam/template__Sveletron)
+| Repository                                                   | Technologies                     |
+| ------------------------------------------------------------ | -------------------------------- |
+| [Sveletron](https://github.com/CodyAdam/template__Sveletron) | TS, Node, Svelte, Electron, Sass |
