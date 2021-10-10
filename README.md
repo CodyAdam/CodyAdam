@@ -39,10 +39,10 @@
 
 | Repository                                                                      | Technologies          | Skills          |
 | ------------------------------------------------------------------------------- | --------------------- | --------------- |
-| - [Dofus image recognition](https://github.com/CodyAdam/tool__dofus-img-recogn) | AHK, Python, Teseract | CLI, Automation |
-| - [Custom Numworks Calculator](https://github.com/CodyAdam/tool__numworks-calc) | Node, Electron        |                 |
+| [Dofus image recognition](https://github.com/CodyAdam/tool__dofus-img-recogn) | AHK, Python, Teseract | CLI, Automation |
+| [Custom Numworks Calculator](https://github.com/CodyAdam/tool__numworks-calc) | Node, Electron        |                 |
 
-### Others
+### 📦 Others
 | Repository                                                          | Technologies    | Skills   |
 | ------------------------------------------------------------------- | --------------- | -------- |
 | [React Components](https://github.com/CodyAdam/other__reacts-compo) | JS, Node, React | Frontend |
