@@ -54,5 +54,5 @@
 | [Sveletron](https://github.com/CodyAdam/template__Sveletron) | TS, Node, Svelte, Electron, Sass |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAdam&layout=compact)](https://github.com/CodyAdam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAdam&langs_count=20)](https://github.com/CodyAdam)
 
