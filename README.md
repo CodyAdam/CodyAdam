@@ -52,3 +52,7 @@
 | Repository                                                   | Technologies                     |
 | ------------------------------------------------------------ | -------------------------------- |
 | [Sveletron](https://github.com/CodyAdam/template__Sveletron) | TS, Node, Svelte, Electron, Sass |
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyAdam&layout=compact)](https://github.com/CodyAdam/github-readme-stats)
+
