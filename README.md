@@ -1,13 +1,15 @@
 
-
 # Repositories
 
 ### 💼 Projects
 
+- [smrtile](https://github.com/CodyAdam/project__smrtile) **Work in progress**
+- [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3)
+- [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2)
+- [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1)
 - [ADN match](https://github.com/CodyAdam/project__ADN-match)
 - [Chatbot](https://github.com/CodyAdam/project__chatbot)
 - [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)
-- [smrtile](https://github.com/CodyAdam/project__smrtile) [WIP]
 
 ### 🧩 Puzzles
 
