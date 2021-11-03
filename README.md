@@ -21,7 +21,7 @@
 | -------------------------------------------------------------------- | ---------------- | -------------------------------------------- |
 | [Tower Defence](https://github.com/CodyAdam/game__tower-defence) 🌟   | Java, StdDraw    | Group Work, Optimization, GameEngine, UI, UX |
 | [titac](https://github.com/CodyAdam/game__titac) 🌟                   | TS, React, Redux | State Management, Frontend                   |
-| [titac Server](https://github.com/CodyAdam/game__tita-server)        | TS, Node         | Networking, Backend                          |
+| [titac Server](https://github.com/CodyAdam/game__titac-server)        | TS, Node         | Networking, Backend                          |
 | [Unity 2d Prototype](https://github.com/CodyAdam/game__2d-prototype) | C#, Unity3D      | GameEngine, 2D Physics                       |
 
 
