@@ -29,7 +29,7 @@
 
 | Repository                                                                       | Technologies | Skills           |
 | -------------------------------------------------------------------------------- | ------------ | ---------------- |
-| [Advent of Code 2019](https://github.com/CodyAdam/puzzle__advent-of-code-2021) 🌟 | Python3      | Problem Solving  |
+| [Advent of Code 2021](https://github.com/CodyAdam/puzzle__advent-of-code-2021) 🌟 | Python3      | Problem Solving  |
 | [AI Ghost Contest](https://github.com/CodyAdam/puzzle__AI-ghost-contest) 🌟       | Python3      | AI, Optimization |
 | [Advent of Code 2020](https://github.com/CodyAdam/puzzle__advent-of-code-2020) 🌟 | Python3      | Problem Solving  |
 | [Advent of Code 2019](https://github.com/CodyAdam/puzzle__advent-of-code-2019)   | Python3      | Problem Solving  |
