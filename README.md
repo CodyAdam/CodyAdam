@@ -8,6 +8,7 @@
 | Repository                                                                     | Technologies                     | Skills                                  |
 | ------------------------------------------------------------------------------ | -------------------------------- | --------------------------------------- |
 | [Chatbot](https://github.com/CodyAdam/project__chatbot) 🌟                      | Scala, ScalaSwing                | Unit Testing, Group Work, Web Scrapping, UI, UX |
+| [Machine Learning OCR](https://github.com/CodyAdam/Machine-learning-OCR)  | Python                            | ML Classification models, OCR  |
 | [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)  | Scala                            | Unit Testing, Group Work, Web Scrapping |
 | [ADN match](https://github.com/CodyAdam/project__ADN-match)                    | Scala                            | Unit Testing, Group Work, Regexp        |
 | [smrtile](https://github.com/CodyAdam/project__smrtile) _**WIP**_              | TS, Node, React, Redux           | Frontend, UI, UX, State Management      |
