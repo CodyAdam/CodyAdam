@@ -1,57 +1,39 @@
 
+# Personal site : [cody.pw](https://cody.pw)
 
-# Repositories
+--- 
 
-### 💼 Projects
+# My tech stacks
 
+### Web frontend
 
-| Repository                                                                     | Technologies                     | Skills                                  |
-| ------------------------------------------------------------------------------ | -------------------------------- | --------------------------------------- |
-| [Chatbot](https://github.com/CodyAdam/project__chatbot) 🌟                      | Scala, ScalaSwing                | Unit Testing, Group Work, Web Scrapping, UI, UX |
-| [Machine Learning OCR](https://github.com/CodyAdam/Machine-learning-OCR)  | Python                            | ML Classification models, OCR  |
-| [Classifieds Search](https://github.com/CodyAdam/project__classifieds-search)  | Scala                            | Unit Testing, Group Work, Web Scrapping |
-| [ADN match](https://github.com/CodyAdam/project__ADN-match)                    | Scala                            | Unit Testing, Group Work, Regexp        |
-| [smrtile](https://github.com/CodyAdam/project__smrtile) _**WIP**_              | TS, Node, React, Redux           | Frontend, UI, UX, State Management      |
-| [smrtile prototype 3](https://github.com/CodyAdam/project__smrtile-prototype3) | JS, Node, Svelte, Electron, Sass | Frontend, UI, UX                        |
-| [smrtile prototype 2](https://github.com/CodyAdam/project__smrtile-prototype2) | React, Node, Electron            | Frontend, UI, UX                        |
-| [smrtile prototype 1](https://github.com/CodyAdam/project__smrtile-prototype1) | JS                               | Frontend                                |
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height=80 />
+<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height=80 />
+<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height=80 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height=80 />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height=80 />
 
-### 🎮 Games
+### Web backend
 
-| Repository                                                           | Technologies     | Skills                                       |
-| -------------------------------------------------------------------- | ---------------- | -------------------------------------------- |
-| [Tower Defence](https://github.com/CodyAdam/game__tower-defence) 🌟   | Java, StdDraw    | Group Work, Optimization, GameEngine, UI, UX |
-| [titac](https://github.com/CodyAdam/game__titac) 🌟                   | TS, React, Redux | State Management, Frontend                   |
-| [titac Server](https://github.com/CodyAdam/game__titac-server)        | TS, Node         | Networking, Backend                          |
-| [Unity 2d Prototype](https://github.com/CodyAdam/game__2d-prototype) | C#, Unity3D      | GameEngine, 2D Physics                       |
+<img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" height=80 />
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height=80 />
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" height=80 />
+<img src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png" height=80 />
+<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height=80 />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height=80 />
+<img src="https://user-images.githubusercontent.com/8386499/105239291-a2e69180-5b21-11eb-8b49-f2800f0d2b23.png" height=80 />
 
 
-### 🧩 Puzzles
+### Other tech stacks
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height=80 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height=80 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height=80 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height=80 />
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" height=80 />
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height=80 />
 
-| Repository                                                                       | Technologies | Skills           |
-| -------------------------------------------------------------------------------- | ------------ | ---------------- |
-| [Advent of Code 2021](https://github.com/CodyAdam/puzzle__advent-of-code-2021) 🌟 | Python3      | Problem Solving  |
-| [AI Ghost Contest](https://github.com/CodyAdam/puzzle__AI-ghost-contest) 🌟       | Python3      | AI, Optimization |
-| [Advent of Code 2020](https://github.com/CodyAdam/puzzle__advent-of-code-2020) 🌟 | Python3      | Problem Solving  |
-| [Advent of Code 2019](https://github.com/CodyAdam/puzzle__advent-of-code-2019)   | Python3      | Problem Solving  |
-| [AI Screeps](https://github.com/CodyAdam/puzzle__AI-screeps)                     | TS, Node     | AI, Optimization |
-| [AI Starship](https://github.com/CodyAdam/puzzly__AI-starship)                   | Python3      | AI, Optimization |
-
-### 🔧 Tools 
-
-| Repository                                                                      | Technologies          | Skills          |
-| ------------------------------------------------------------------------------- | --------------------- | --------------- |
-| [Dofus image recognition](https://github.com/CodyAdam/tool__dofus-img-recogn) | AHK, Python, Teseract | CLI, Automation |
-| [Custom Numworks Calculator](https://github.com/CodyAdam/tool__numworks-calc) | Node, Electron        |                 |
-
-### 📦 Others
-| Repository                                                          | Technologies    | Skills   |
-| ------------------------------------------------------------------- | --------------- | -------- |
-| [React Components](https://github.com/CodyAdam/other__reacts-compo) | JS, Node, React | Frontend |
-
-### 🧾 Templates
-
-| Repository                                                   | Technologies                     |
-| ------------------------------------------------------------ | -------------------------------- |
-| [Sveletron](https://github.com/CodyAdam/template__Sveletron) | TS, Node, Svelte, Electron, Sass |
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height=80 />
+<img src="https://i.redd.it/tu3gt6ysfxq71.png" height=80 />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height=80 />
+<img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" height=80 />
 
