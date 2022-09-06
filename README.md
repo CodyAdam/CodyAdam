@@ -1,7 +1,7 @@
 
 # Personal sites
 
-- Url shortener : [cody.pw](https://cody.pw)
+- Url shortener : [cdy.pw](https://cdy.pw)
 - Main site : [codyadm.com](https://codyadm.com)
 
 --- 
