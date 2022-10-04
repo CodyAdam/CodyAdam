@@ -46,3 +46,12 @@
 <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" height=50 />
 </p>
 
+
+<style>
+p{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+</style>
