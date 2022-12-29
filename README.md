@@ -16,6 +16,7 @@
 <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height=50 />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height=50 />
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height=50 />
+<img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" height=50 />
 </p>
 
 ### Web backend
@@ -28,6 +29,7 @@
 <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height=50 />
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height=50 />
 <img src="https://user-images.githubusercontent.com/8386499/105239291-a2e69180-5b21-11eb-8b49-f2800f0d2b23.png" height=50 />
+<img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" height=50 />
 </p>
 
 
